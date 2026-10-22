@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Halo,%20Saya%20[Rezky%20]&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Halo,%20Saya%20Rezky&fontSize=40&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">Halo, saya Rezky </h1>

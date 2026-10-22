@@ -27,5 +27,9 @@
 
 ### Hubungi Saya
 <p align="left">
-  <a href="mailto:rezkymaulana22111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rezkymaulana22111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
+<p align="left">
+  <a href="https://www.instagram.com/rez.prg?xtok=MXJkM2t0dGkwODV4dg=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+</p>
+

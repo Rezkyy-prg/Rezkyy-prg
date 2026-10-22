@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Halo,%20Saya%20[Nama%20Kamu]&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Halo,%20Saya%20[Rezky%20K]&fontSize=40&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">Halo, saya Rezky </h1>
@@ -38,12 +38,6 @@
   <a href="https://www.instagram.com/rez.prg?xtok=MXJkM2t0dGkwODV4dg==" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram" />
   </a>
-
-  <!-- Twitter / X Animated -->
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://share.google/daw1Au5k4jc2iftQW" width="40" height="40" alt="Twitter" />
-  </a>
-</p>
 
 ### 📬 Hubungi Saya
 <p align="left">

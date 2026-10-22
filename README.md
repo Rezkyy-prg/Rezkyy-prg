@@ -1,21 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Halo,%20Saya%20Rezky&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Rezky&fontSize=40&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">Halo, saya Rezky </h1>
+<h1 align="center">Hello, I'm Rezky </h1>
 <p align="center">
   <b>Junior Game Developer / Tech Enthusiast</b>
 </p>
 
----
 
-### Tentang Saya
-- Saat ini sedang belajar: **Game Development / Unity / C++**
-- Target: **Membuat project open-source bermanfaat**
-- Hobi: **main game dan nonton anime**
+### About Me
+- Currently learning:: **Game Development / Unity / C++**
+- Target: **Building a 2D game with Unity**
+- Hobbies: **Playing games and watching anime**
 
 
-### Bahasa & Tools
+### Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,7 +24,7 @@
 </p>
 
 
-### Hubungi Saya
+### Contact Me
 <p align="left">
   <a href="mailto:rezkymaulana22111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>

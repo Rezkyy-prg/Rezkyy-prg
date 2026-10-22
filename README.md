@@ -1,9 +1,30 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Halo,%20Saya%20Rezky&fontSize=40&animation=fadeIn" width="100%" />
+</p>
 
-<!-- Header Card / Terminal Box -->
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                        👋 SELAMAT DATANG DI PROFIL SAYA                │
-└────────────────────────────────────────────────────────────────────────┘
-$status       : Sedang eksplorasi teknologi web modern & open-source$ learning     : React.js, Python, & Tailwind CSS
-$ask_me_about : HTML/CSS, JavaScript Dasar, & UI Design$ hobby        : Ngoding santai, dengerin musik, & eksplorasi tools baru
+<h1 align="center">Halo, saya Rezky </h1>
+<p align="center">
+  <b>Junior Game Developer / Tech Enthusiast</b>
+</p>
+
+---
+
+### Tentang Saya
+- Saat ini sedang belajar: **Game Development / Unity / C++**
+- Target: **Membuat project open-source bermanfaat**
+- Hobi: **main game dan nonton anime**
+
+
+### Bahasa & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+
+### 📬 Hubungi Saya
+<p align="left">
+  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>

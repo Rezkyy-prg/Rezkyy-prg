@@ -9,7 +9,7 @@
 
 
 ### About Me
-- Currently learning:: **Game Development / Unity / C++**
+- Currently learning: **Game Development / Unity / C++**
 - Target: **Building a 2D game with Unity**
 - Hobbies: **Playing games and watching anime**
 

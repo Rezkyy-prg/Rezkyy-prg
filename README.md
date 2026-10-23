@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Rezky&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Rezky&fontSize=40&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">Hello, I'm Rezky </h1>
+<h1 align="center">Hi, I'm Rezky </h1>
 <p align="center">
   <b>Junior Game Developer / Tech Enthusiast</b>
 </p>
